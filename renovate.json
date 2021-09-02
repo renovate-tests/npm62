@@ -3,5 +3,5 @@
   "extends": [
     "config:base"
   ],
-  "gitAuthor": "invalid@@email.address"
+  "gitAuthor": "renovate@whitesourcesoftware.com"
 }
